@@ -1,0 +1,14 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Test Data
+Test/
+
+# Editor Settings
+.idea/
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
